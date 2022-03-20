@@ -1,2 +1,2 @@
 # Slot-Machine-Java
-Cool looking slot machine application developed with Java OOP
+Slot machine application with GUI developed with Java (OOP)
